@@ -1,0 +1,31 @@
+.container_carrusel{
+    margin: 50px;
+    width: 55%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    overflow-y:hidden;
+}
+
+.carrusel_wrapper{
+    width: 300px;
+    position: relative;
+    margin:0 20px;
+    flex-shrink: 0; /* Evita que los elementos se ajusten automáticamente */
+
+}
+
+.imagen_carrusel{
+    width: 300px;
+}
+
+.overlay_text{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}

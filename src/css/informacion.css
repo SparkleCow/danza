@@ -1,0 +1,41 @@
+.informacion{
+    min-width: 800px;
+    min-width: 20%;
+    min-height: 200px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    margin: 25px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 13px 1px rgb(0 0 0/9%);
+    color: aliceblue;
+}
+
+.informacion:hover{
+    box-shadow: 0 6px 13px 2px rgb(0 0 0/20%);
+}
+
+.imagen_informacion{
+    margin: 50px;
+    height: 100%;
+    width: auto;
+}
+
+.contenedor_informacion{
+    height: 100%;
+    display: flex;
+    flex:1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo_clase_informacion{
+    margin: 30px;
+}
+
+.descripcion_informacion{
+    margin-left: 30px;
+    margin-right: 30px;
+}

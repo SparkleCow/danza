@@ -1,0 +1,75 @@
+@media (max-width: 1400px){
+
+    .guia img{
+        height: 90%;
+        width: auto;
+    }
+    
+    .about img{
+        height: 90%;
+        width: auto;
+    }
+    
+    .contact img{
+        height: 90%;
+        width: auto;
+    }
+    
+    .about_me img{
+        height: 90%;
+        width: auto;
+    }
+
+    .primera_paleta img{
+        height: 90%;
+        width: auto;
+    }
+    
+    .segunda_paleta img{
+        height: 90%;
+        width: auto;
+    }
+
+    .title img{
+        height: 80%;
+        width: auto;
+    }
+}
+
+@media (max-width: 1300px){
+
+    .guia img{
+        height: 70%;
+        width: auto;
+    }
+    
+    .about img{
+        height: 70%;
+        width: auto;
+    }
+    
+    .contact img{
+        height: 70%;
+        width: auto;
+    }
+    
+    .about_me img{
+        height: 70%;
+        width: auto;
+    }
+
+    .primera_paleta img{
+        height: 70%;
+        width: auto;
+    }
+    
+    .segunda_paleta img{
+        height: 70%;
+        width: auto;
+    }
+
+    .title img{
+        height: 60%;
+        width: auto;
+    }
+}

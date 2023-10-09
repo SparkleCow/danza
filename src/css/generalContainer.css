@@ -1,0 +1,9 @@
+.general_container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    min-height: 70vh;
+    align-items: center;
+    background-color: antiquewhite;
+}

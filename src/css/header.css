@@ -1,0 +1,129 @@
+header{
+    width: 100vw;
+    height: 15vh;
+    background-color:rgb(218, 217, 217);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/*Contenido del titulo de la pagina*/
+.title{
+    height: 100%;
+    width: auto;
+    display: flex;
+    align-items: center;
+}
+
+.title img{
+    height: 90%;
+    width: auto;
+}
+
+/*Contenido de las paletas de colores de la pagina*/
+.primera_paleta{
+    margin: 0 100px;
+    height: 50%;
+    width: auto;
+}
+
+.primera_paleta img{
+    height: 100%;
+    width: auto;
+}
+
+.segunda_paleta{
+    margin: 0 100px;
+    height: 50%;
+    width: auto;
+}
+
+.segunda_paleta img{
+    height: 100%;
+    width: auto;
+}
+
+/*Contenido de iconos*/
+.guia{
+    margin: 10px;
+    height: 50%;
+    width: auto;
+}
+
+.about{
+    margin: 10px;
+    height: 50%;
+    width: auto;
+}
+
+.contact{
+    margin: 10px;
+    height: 50%;
+    width: auto;
+}
+
+.about_me{
+    margin: 10px;
+    height: 50%;
+    width: auto;
+}
+
+.guia img{
+    height: 100%;
+    width: auto;
+}
+
+.about img{
+    height: 100%;
+    width: auto;
+}
+
+.contact img{
+    height: 100%;
+    width: auto;
+}
+
+.about_me img{
+    height: 100%;
+    width: auto;
+}
+
+/*Hover de los iconos*/
+.guia:hover{
+    opacity: 0.6;
+    padding-bottom: 3px;
+    border-bottom: 4px solid #000000;
+}
+
+.about:hover{
+    opacity: 0.6;
+    padding-bottom: 3px;
+    border-bottom: 4px solid #000000;
+}
+
+.contact:hover{
+    opacity: 0.6;
+    padding-bottom: 3px;
+    border-bottom: 4px solid #000000;
+}
+
+.about_me:hover{
+    opacity: 0.6;
+    padding-bottom: 3px;
+    border-bottom: 4px solid #000000;
+}
+
+.segunda_paleta:hover{
+    opacity: 0.6;
+    padding-bottom: 3px;
+    border-bottom: 4px solid #000000;
+}
+
+.primera_paleta:hover{
+    opacity: 0.6;
+    padding-bottom: 3px;
+    border-bottom: 4px solid #000000;
+}
+
+
