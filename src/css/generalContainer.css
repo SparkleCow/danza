@@ -1,4 +1,7 @@
 .general_container {
+    background-image: url("/src/imagenes/fondor1.jpg");
+    background-size: cover;
+    background-repeat: repeat;
     box-sizing: border-box;
     display: flex;
     flex-direction: row;

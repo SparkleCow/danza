@@ -2,7 +2,7 @@
     width: 600px;
     min-width: 20%;
     height: 200px;
-    background-color: rgb(0, 15, 78);
+    background-color: rgba(132, 27, 218, 0.982);
     display: flex;
     margin: 25px;
     flex-direction: row;
@@ -10,15 +10,19 @@
     justify-content: space-between;
     box-shadow: 0 4px 13px 1px rgb(0 0 0/9%);
     color: aliceblue;
+    border-radius: 5%;
 }
 
 .boton:hover{
     box-shadow: 0 6px 13px 2px rgb(0 0 0/20%);
+    background-color: rgba(6, 35, 152, 0.982);
 }
 
 .imagen_boton{
     height: 100%;
     width: auto;
+    border-radius: 5%;
+
 }
 
 .contenedor_informacion_boton{
